@@ -17,7 +17,7 @@ Fort d'une expérience antérieure dans le domaine du journalisme et des médias
 ### 🌱 Champs d’intérêt & Expertise :
 
 * 📊 **Science des Données :** Analyse statistique, modélisation prédictive.
-* 📈 **Économétrie et Analyse Économique :** Application des méthodes statistiques avancées aux données économiques et socialeS..
+* 📈 **Économétrie et Analyse Économique :** Application des méthodes statistiques avancées aux données économiques et sociales.
 * 💻 **Programmation et Développement d'Outils :** Création de scripts et d'applications pour l'analyse de données, l'automatisation et la résolution de problèmes.
 
 ---
@@ -32,6 +32,10 @@ Fort d'une expérience antérieure dans le domaine du journalisme et des médias
 ### 💼 Expérience professionnelle & Projets Clés
 
 Mes projets personnels et universitaires me permettent d'appliquer mes connaissances en science des données, en économétrie et en optimisation à des cas concrets.
+
+* 🇸🇳 **Analyse et Harmonisation EHCVM Sénégal (2018 & 2021)** (Dépôt : [welfare-senegal-ehcvm-analysis](https://github.com/ZINABA-Albert/welfare-senegal-ehcvm-analysis))
+    * **Description :** Projet d'analyse de données en R axé sur l'harmonisation, le nettoyage, le recodage et la fusion des bases de données de l'Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) au Sénégal pour les années 2018 et 2021. Inclut des statistiques descriptives pour la base fusionnée.
+    * **Technologies clés :** R, dplyr, haven, gtsummary, DataExplorer, labelled.
 
 * 💡 **Projet d'Optimisation** (Dépôt : [optimisation_tournee](https://github.com/ZINABA-Albert/optimisation_tournee))
     * **Description :** Développement d'un algorithme et d'une solution de routage optimisé pour les camions de collecte, avec un focus sur l'efficacité et la réduction des coûts opérationnels. Applicable à la logistique urbaine (ex: gestion des déchets à Dakar).
