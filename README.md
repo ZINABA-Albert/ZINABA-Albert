@@ -71,4 +71,4 @@ Mes projets personnels et universitaires me permettent d'appliquer mes connaissa
 
 ### 📈 Statistiques GitHub :
 
-[![ZINABA-Albert GitHub stats](https://github-readme-stats.vercel.app/api?username=ZINABA-Albert&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ZINABA-Albert GitHub stats](https://github-readme-stats.vercel.app/api?username=ZINABA-Albert&show_icons=true&theme=radical)](https://github.com/ZINABA-Albert/github-readme-stats)
