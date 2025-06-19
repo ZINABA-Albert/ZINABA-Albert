@@ -6,7 +6,7 @@
 
 ### 🔬 À propos de moi
 
-Je suis actuellement **Élève Ingénieur Statisticien Économiste** à l'**École Nationale de la Statistique et de l'Analyse Économique Pierre Ndiaye (ENSAE Dakar)**.
+Je suis **Élève Ingénieur Statisticien Économiste** à l'**École Nationale de la Statistique et de l'Analyse Économique Pierre Ndiaye (ENSAE Dakar)**.
 
 Passionné par la **Science des Données et l'Économie**, je combine mes compétences en statistiques, en économie et en programmation pour traiter des données complexes et développer des solutions analytiques et prédictives.
 
