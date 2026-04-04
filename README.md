@@ -1,78 +1,147 @@
-#  Bonjour, je suis Albert ZINABA !
+<div align="center">
 
-📍 Dakar, Sénégal
+# Albert ZINABA
 
----
+**Élève Ingénieur Statisticien Économiste · ENSAE Dakar · Sénégal 🇸🇳**
 
-### 🔬 À propos de moi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-albertzinaba-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertzinaba)
+[![Email](https://img.shields.io/badge/Email-albertzinaba@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:albertzinaba@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ZINABA--Albert.github.io-1e3a5f?style=flat&logo=github&logoColor=white)](https://ZINABA-Albert.github.io)
+[![Téléphone](https://img.shields.io/badge/T%C3%A9l-+221_78_751_32_98-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+221787513298)
 
-Je suis **Élève Ingénieur Statisticien Économiste** à l'**École Nationale de la Statistique et de l'Analyse Économique Pierre Ndiaye (ENSAE Dakar)**.
-
-Passionné par la **Science des Données et l'Économie**, je combine mes compétences en statistiques, en économie et en programmation pour traiter des données complexes et développer des solutions analytiques et prédictives.
-
-Fort d'une expérience antérieure dans le domaine du journalisme et des médias, je possède également une solide capacité d'analyse critique, de synthèse et de communication, essentielle pour traduire des concepts techniques en informations claires.
-
----
-
-### 🌱 Champs d’intérêt & Expertise :
-
-* 📊 **Science des Données :** Analyse statistique, modélisation prédictive.
-* 📈 **Économétrie et Analyse Économique :** Application des méthodes statistiques avancées aux données économiques et sociales.
-* 💻 **Programmation et Développement d'Outils :** Création de scripts et d'applications pour l'analyse de données, l'automatisation et la résolution de problèmes.
+</div>
 
 ---
 
-### 📚 Éducation
+## 👨‍💻 À propos
 
-* 🎓 **Élève Ingénieur Statisticien Économiste** – ENSAE Dakar (École Nationale de la Statistique et de l'Analyse Économique Pierre Ndiaye), Dakar, Sénégal (en cours, 2024-2027)
-* 🎓 **Licence en Analyse et Politique Économique** – Université Norbert Zongo de Koudougou, Burkina Faso (2018-2021)
+Passionné par la **science des données appliquée aux réalités socio-économiques africaines**, je combine statistiques, économétrie et machine learning pour développer des solutions analytiques à fort impact.
 
----
+Élève ISE à l'**ENSAE Dakar** (promotion 2024-2027), je travaille sur des données réelles — enquêtes ménages, marchés immobiliers, logistique urbaine — avec une approche rigoureuse allant de l'exploration jusqu'au déploiement en production.
 
-### 💼 Expérience professionnelle & Projets Clés
+Avant l'ENSAE, j'ai exercé dans le **journalisme**, ce qui me donne une capacité rare : traduire des analyses complexes en informations claires et accessibles à des audiences non techniques.
 
-Mes projets personnels et universitaires me permettent d'appliquer mes connaissances en science des données, en économétrie et en optimisation à des cas concrets.
-
-* 🇸🇳 **Analyse et Harmonisation EHCVM Sénégal (2018 & 2021)** (Dépôt : [welfare-senegal-ehcvm-analysis](https://github.com/ZINABA-Albert/welfare-senegal-ehcvm-analysis))
-    * **Description :** Projet d'analyse de données en R axé sur l'harmonisation, le nettoyage, le recodage et la fusion des bases de données de l'Enquête Harmonisée sur les Conditions de Vie des Ménages (EHCVM) au Sénégal pour les années 2018 et 2021. Inclut des statistiques descriptives pour la base fusionnée.
-    * **Technologies clés :** R, dplyr, haven, gtsummary, DataExplorer, labelled.
-
-* 💡 **Projet d'Optimisation** (Dépôt : [optimisation_tournee](https://github.com/ZINABA-Albert/optimisation_tournee))
-    * **Description :** Développement d'un algorithme et d'une solution de routage optimisé pour les camions de collecte, avec un focus sur l'efficacité et la réduction des coûts opérationnels. Applicable à la logistique urbaine (ex: gestion des déchets à Dakar).
-    * **Technologies clés :** Python, SciPy, PuLP, NetworkX, Pandas.
-* 🐍 **Mini-Projets Python** (Dépôt : [mini_projet_python](https://github.com/ZINABA-Albert/mini_projet_python))
-    * **Description :** Une collection d'exercices et de petits projets Python explorant divers concepts de programmation, d'algorithmique et de manipulation de données (ex: structuration de données, algorithmes de tri/recherche).
-* 🎙️ **Expérience en Journalisme**
-    * **Description :** Passage dans le domaine des médias en tant que journaliste. Cette expérience a fortement développé mes capacités d'analyse, de synthèse d'informations complexes, et de communication claire et impactante.
+> *"Chaque jeu de données raconte une histoire. Mon rôle est de la lire et de la traduire en décisions."*
 
 ---
 
-### ⚙️ Compétences techniques
+## 🛠️ Compétences techniques
 
-* **Langages de Programmation :**
-    * Python [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-    * R [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-* **Logiciels Statistiques & Analyse de Données :** Stata, Excel
-* **Librairies/Frameworks Data Science (Python) :**
-    * Pandas [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-    * NumPy [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-    * Scikit-learn [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
-    * Matplotlib [![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-    * Seaborn [![Seaborn](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-* **Contrôle de Version :**
-    * Git [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-    * GitHub [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-* **Outils :** Jupyter Notebook, VS Code
+**Langages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-1a5276?style=flat&logoColor=white)
+
+**Machine Learning & Data Science**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=flat&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2ecc71?style=flat&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Visualisation**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)
+
+**MLOps & Outils**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🔗 Me Contacter :
+## 🚀 Projets sélectionnés
 
-* **Email :** [albertzinaba@gmail.com](mailto:albertzinaba@gmail.com)
-* **LinkedIn :** [www.linkedin.com/in/albertzinaba](https://www.linkedin.com/in/albertzinaba)
+### 🔋 Prédiction de consommation énergétique — Seattle
+[![Repo](https://img.shields.io/badge/GitHub-Voir_le_projet-181717?style=flat&logo=github)](https://github.com/Luck-John/Projet-ML-Prediction-of-building-energy)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-Production-green?style=flat)
+
+Modèle **Stacking** (XGBoost + LightGBM + ExtraTrees + HistGBM) sur **1 553 bâtiments** non-résidentiels.
+- **R² = 87%** en entraînement
+- API REST déployée en production avec **FastAPI** sur Railway
+- Dashboard interactif **Lovable** accessible publiquement
+- Pipeline **CI/CD complet** avec GitHub Actions — 20+ tests automatisés
 
 ---
 
-### 📈 Statistiques GitHub :
+### 🏠 Estimation des prix immobiliers par Random Forest
+[![Repo](https://img.shields.io/badge/GitHub-Voir_le_projet-181717?style=flat&logo=github)](https://github.com/ZINABA-Albert/analyse-marche-immobilier)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-[![ZINABA-Albert GitHub stats](https://github-readme-stats.vercel.app/api?username=ZINABA-Albert&show_icons=true&theme=radical)](https://github.com/ZINABA-Albert/github-readme-stats)
+Pipeline ML complet sur **10 000 transactions immobilières**.
+- **MAE ≈ 34 178€** — précision de **90,4%** sur données de test
+- Pipeline : EDA → preprocessing → Random Forest → évaluation
+
+---
+
+### 🇸🇳 Analyse welfare EHCVM — Sénégal 2018–2021
+[![Repo](https://img.shields.io/badge/GitHub-Voir_le_projet-181717?style=flat&logo=github)](https://github.com/ZINABA-Albert/welfare-senegal-ehcvm-analysis)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![UEMOA](https://img.shields.io/badge/UEMOA-Afrique_de_l'Ouest-green?style=flat)
+
+Harmonisation et analyse des bases EHCVM Sénégal 2018 & 2021.
+- Nettoyage, recodage et **fusion de panels ménages** (données ANSD)
+- Statistiques descriptives comparatives ventilées par année
+- `dplyr` · `haven` · `gtsummary` · `DataExplorer` · `labelled`
+
+---
+
+### 🚛 Optimisation de tournées de collecte — Dakar
+[![Repo](https://img.shields.io/badge/GitHub-Voir_le_projet-181717?style=flat&logo=github)](https://github.com/ZINABA-Albert/optimisation_tournee)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Algorithme **VRP** pour optimiser les tournées de camions à Dakar.
+- Programmation linéaire avec **PuLP**
+- Routage par graphes avec **NetworkX**
+- Réduction des coûts opérationnels et des distances
+
+---
+
+## 📚 Formation
+
+| Diplôme | Institution | Période |
+|---|---|---|
+| 🎓 Ingénieur Statisticien Économiste (ISE) | ENSAE Dakar, Sénégal | 2024 — 2027 |
+| 🎓 Licence Analyse et Politique Économique | Université Norbert Zongo, Burkina Faso | 2018 — 2021 |
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ZINABA-Albert&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a5f&icon_color=1a6fbf&text_color=4a5a6e)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZINABA-Albert&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=1e3a5f&text_color=4a5a6e)
+
+</div>
+
+---
+
+## 📬 Me contacter
+
+Disponible pour des **stages**, **collaborations de recherche** et **projets en data science**.
+
+| Canal | Coordonnées |
+|---|---|
+| 📧 Email | [albertzinaba@gmail.com](mailto:albertzinaba@gmail.com) |
+| 📞 Téléphone | [+221 78 751 32 98](tel:+221787513298) |
+| 💼 LinkedIn | [linkedin.com/in/albertzinaba](https://www.linkedin.com/in/albertzinaba) |
+| 🌐 Portfolio | [ZINABA-Albert.github.io](https://ZINABA-Albert.github.io) |
+
+---
+
+<div align="center">
+
+*ENSAE Dakar · Dakar, Sénégal 🇸🇳 · 2025*
+
+</div>
