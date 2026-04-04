@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Albert ZINABA !
+#  Bonjour, je suis Albert ZINABA !
 
 📍 Dakar, Sénégal
 
