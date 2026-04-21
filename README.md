@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Albert ZINABA !
+#  Bonjour, je suis Albert ZINABA !
 
 📍 Dakar, Sénégal
 
@@ -25,7 +25,7 @@ Fort d'une expérience antérieure dans le domaine du journalisme et des médias
 ### 📚 Éducation
 
 * 🎓 **Élève Ingénieur Statisticien Économiste** – ENSAE Dakar (École Nationale de la Statistique et de l'Analyse Économique Pierre Ndiaye), Dakar, Sénégal (en cours, 2024-2027)
-* 🎓 **Licence en Analyse et Politique Économique** – Université Norbert Zongo de Koudougou, Burkina Faso (2018-2021)
+* 🎓 **Licence en Analyse et Politique Économique** – Université Norbert Zongo de Koudougou, Burkina Faso 
 
 ---
 
